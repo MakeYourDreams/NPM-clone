@@ -27,14 +27,14 @@ nav {
     margin: 0 10px;
   }
 
-  .search {
+  .section1-head {
     background-color: rgba(36,89,121);
     color: rgba(255,255,255, 0.9);
     padding-top: 15px;
     height: 65px;
   }
 
-  .search input {
+  .section1-head input {
     vertical-align:top;
     background-color: rgba(31,82,111);
     color: rgba(255,255,255, 0.9);
@@ -47,24 +47,24 @@ nav {
     border-color: rgb(162, 210, 255);
   }
 
-  .below-search-container {
+  .section1-container {
     background-color: rgba(32,101,136);
     background-image: url(images/city-scape.svg);
     height: 400px;
   }
 
-  .below-search {
+  .section1 {
     width: 50%;
     margin: auto;
     color: rgba(255,255,255, 0.9);
     padding-top: 15px;
   }
 
-  .below-search p {
+  .section1 p {
     width: 65%;
   }
 
-  .below-search button{
+  .section1 button{
     background-color:rgb(240, 146, 51);
     border: none;
     border-radius: 15px;
